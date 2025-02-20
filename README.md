@@ -58,7 +58,6 @@ Next, set up a CI/CD pipeline with GitHub Actions or another CI/CD service. This
 
 As you or your users provide feedback and make revisions, this CI/CD pipeline continuously optimizes the project. It promotes collaboration and ensures that the application evolves to meet user expectations. Regularly review the results of your pipeline and make necessary adjustments to improve the quality and user experience until both you and your users are satisfied with the final product.
 <br><br>
-![screencapture-commit-86-rococo-dolphin-439f61-netlify-app-2023-09-04-10_45_55](https://github.com/GKozlowskiDesign/Project_PortfolioWebsiteReactJS/assets/82541715/4e3bac83-b487-498c-943d-9b75daa3d0eb)
 
 # Contributing
 <p>Contributions to the Website are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
