@@ -66,5 +66,5 @@ As you or your users provide feedback and make revisions, this CI/CD pipeline co
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
 # Acknowledgments
-<p>The Website was developed by Gary Kozlowski.</p>
+<p>The Website was developed by ethan.</p>
 </body>
